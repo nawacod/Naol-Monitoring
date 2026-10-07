@@ -1,0 +1,9 @@
+.env
+*.pth
+*.pt
+*.mp4
+*.MOV
+video_files/
+cropped_videos/
+theft_dataset/
+frontend/node_modules/
